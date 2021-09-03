@@ -8,3 +8,6 @@ Georges floyd died 25 May 2020 after been killed by the america policemen.
 #Programming web framework : Spring boot 
 #Data base : MySQL 
 #Web Technology  : Spring Web
+#Software Dependency: Maven
+#Web Dependency : Thymleaf
+
